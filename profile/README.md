@@ -7,6 +7,7 @@
 This organization contains all the important repositories required to build custom ROMs for Nothing Phone (3a) Lite
 
 ### Required device specific repositories
+* [**manifest**](https://github.com/Nothing-Phone-3a-Lite/local_manifests) (`local_manifests`)
 * [**Device tree**](https://github.com/Nothing-Phone-3a-Lite/device_nothing_Galaxian) (`device_nothing_Galaxian`)
 * [**Device kernel tree (Compiled outputs from kernel source)**](https://github.com/Nothing-Phone-3a-Lite/device_nothing_Galaxian-kernel) ('device_nothing_Galaxian-kernel`)
 * [**Vendor tree**](https://github.com/Nothing-Phone-3a-Lite/proprietary_vendor_nothing_Galaxian) (`proprietary_vendor_nothing_Galaxian`)
@@ -23,6 +24,9 @@ This organization contains all the important repositories required to build cust
 * [**Allow booting with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/8ff6e7a68523c3b870d8dcd5713c71ea15b43dd2) (`android_system_core`)
 * [**Allow flashing images from fastbootd with fenrir patched LKs**](https://github.com/Nothing-2A/android_system_core/commit/0d5990a96c5e6a404887f5575c5d00bcbbaaef74) (`android_system_core`)
 
+* [**Standalone repo to apply all patches automatically**](https://github.com/Nothing-Phone-3a-Lite/patches) (`patches`)
+
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/Nothing-Phone-3a-Lite/android_kernel_nothing_mt6878) (`android_kernel_nothing_mt6878`)
-* [**External kernel modules source**](https://github.com/Nothing-Phone-3a-Lite/android_kernel_modules_nothing_mt6878) (`android_kernel_modules_nothing_mt6878`)
+* * [**External kernel modules source**](https://github.com/Nothing-Phone-3a-Lite/android_kernel_modules_nothing_mt6878) (`android_kernel_modules_nothing_mt6878`)
+* [**External device modules source**](https://github.com/Nothing-Phone-3a-Lite/android_kernel_device_modules_6.1_nothing_mt6878) (`android_kernel_device_modules_6.1_nothing_mt6878`)
