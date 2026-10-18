@@ -15,13 +15,6 @@ This organization contains all the important repositories required to build cust
 * [**MediaTek sepolicy**](https://github.com/Nothing-Phone-3a-Lite/device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/Nothing-Phone-3a-Lite/hardware_mediatek) (`hardware_mediatek`)
 * [**MediaTek hardware**](https://github.com/Nothing-Phone-3a-Lite/hardware_dolby) (`hardware_dolby`)
-* [**ParanoidGlyph**](https://github.com/Nothing-Phone-3a-Lite/packages_apps_ParanoidGlyph) (`android_packages_apps_ParanoidGlyph`)
-* [**GlyphAdapter**](https://github.com/Nothing-Phone-3a-Lite/packages_apps_GlyphAdapter) (`android_packages_apps_GlyphAdapter`)
-* [**NTCamera**](https://github.com/Nothing-Phone-3a-Lite/packages_apps_NTCamera) (`android_packages_apps_NTCamera`)
-
-### Optional repositories
-* [**NTGallery**](https://github.com/Nothing-Phone-3a-Lite/packages_apps_NTGallery) (`android_packages_apps_NTGallery`)
-* [**NTGallery**](https://github.com/Nothing-Phone-3a-Lite/packages_apps_GalaxianParts) (`android_packages_apps_GalaxianParts`)
 
 ### Required patches
 * [**Add 60FPS recording on Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
