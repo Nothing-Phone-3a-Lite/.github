@@ -15,7 +15,7 @@ This organization contains all the important repositories required to build cust
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/Nothing-Phone-3a-Lite/device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/Nothing-Phone-3a-Lite/hardware_mediatek) (`hardware_mediatek`)
-* [**MediaTek hardware**](https://github.com/Nothing-Phone-3a-Lite/hardware_dolby) (`hardware_dolby`)
+* [**hardware dolby**](https://github.com/Nothing-Phone-3a-Lite/hardware_dolby) (`hardware_dolby`)
 
 ### Required patches
 * [**Add 60FPS recording on Aperture**](https://github.com/Nothing-2A/android_packages_apps_Aperture/commit/a4c34aa57ed56de60f29349a1e6d20cf8160ca15) (`android_packages_apps_Aperture`)
